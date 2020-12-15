@@ -26,7 +26,7 @@ Download the cleaned data and extract them into "data" folder.
 - 4) http://bvisionweb1.cs.unc.edu/licheng/referit/data/refcocog.zip 
 
 ## Preparing Images:
-Since we colud not push the large volume of datasets to this repo, we provided the instructions for downloading the datasets and setting up the data directory.
+Since we colud not push the large volume of datasets to this repo, we provided the instructions for downloading the datasets and setting up the data directory. Also a directory tree has been provided into the data directory. Please refer to the readme.md file in the data directory.
 ```bash
 cd "data/" directory.
 mkdir images
